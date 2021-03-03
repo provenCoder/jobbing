@@ -1,2 +1,2 @@
 # jobbing
-Initial repo for tech jon open aource project
+Initial repo for tech job open source project
